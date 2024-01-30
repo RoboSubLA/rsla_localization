@@ -1,4 +1,4 @@
-# wailord_localization
+# rsla_localization
 The code for the localization software component of the RoboSub Wailord
 
 # Table of Contents
