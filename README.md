@@ -10,6 +10,7 @@ The code for the localization software component of the RoboSub Wailord
 1. [Problems and Fixes](#problems-and-fixes)
 
 ## Introduction
+Make this looker cool
 
 ## Dependencies
 
@@ -20,3 +21,5 @@ The code for the localization software component of the RoboSub Wailord
 ## Usage
 
 ## Problems and Fixes
+
+## Resources
