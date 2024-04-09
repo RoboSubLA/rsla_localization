@@ -7,6 +7,7 @@ The code for the localization software component of the RoboSub
 1. [Installation](#installation)
 1. [Setup](#setup)
 1. [Usage](#usage)
+1. [Future Seniors](#future-seniors)
 1. [Problems and Fixes](#problems-and-fixes)
 
 ## Introduction
@@ -41,9 +42,21 @@ After the installation and setup process is complete, we can begin using the sof
 ## Problems and Fixes
 During the development and implementation of localization solutions, we may encounter various issues and challenges and they will be posted here.
 
+## Future Seniors
+What we have done.. and where this is going...
+
+
 ## Resources
 Additional resources for further information and documentation.
 
 - [RoboSubLA Official Website](https://www.robosubla.com)
 - [VN100 Library](https://www.vectornav.com/resources/programming-libraries) (You will need an account to access this library)
 - [BNO055 Library](https://www.arduino.cc/reference/en/libraries/adafruit-bno055/)
+- [Adafruit](https://www.learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/arduino-code)
+
+
+## What we need to add here..
+- Add some pics/vids
+- Update documentation
+- How to use..
+- Created By...
