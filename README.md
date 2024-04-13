@@ -1,5 +1,9 @@
 # rsla_localization
-The code for the localization software component of the RoboSub 
+### The code for the localization software component of the RoboSub 
+
+### Localization started __ /__ /__
+
+### Created By: Joshua Chavez & Alexandra  _____
 
 # Table of Contents
 1. [Introduction](#introduction)
@@ -59,4 +63,3 @@ Additional resources for further information and documentation.
 - Add some pics/vids
 - Update documentation
 - How to use..
-- Created By...
