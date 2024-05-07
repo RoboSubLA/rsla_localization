@@ -1,9 +1,9 @@
 # rsla_localization
 ### The code for the localization software component of the RoboSub 
 
-### Localization started __ /__ /__
+### Localization started on 8/21/23
 
-### Created By: Joshua Chavez & Alexandra  _____
+### Created By (2024 Graduates): Joshua Chavez & Alexandra Barahona Amador 
 
 # Table of Contents
 1. [Introduction](#introduction)
