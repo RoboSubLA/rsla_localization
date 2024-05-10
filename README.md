@@ -47,7 +47,7 @@ After the installation and setup process is complete, we can begin using the sof
 During the development and implementation of localization solutions, we may encounter various issues and challenges and they will be posted here.
 
 ## Future Seniors
-What we have done.. and where this is going...
+We have setup the main repo for localization and have seperate codes that are a good start to progress forward with localization
 
 
 ## Resources
@@ -57,9 +57,3 @@ Additional resources for further information and documentation.
 - [VN100 Library](https://www.vectornav.com/resources/programming-libraries) (You will need an account to access this library)
 - [BNO055 Library](https://www.arduino.cc/reference/en/libraries/adafruit-bno055/)
 - [Adafruit](https://www.learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/arduino-code)
-
-
-## What we need to add here..
-- Add some pics/vids
-- Update documentation
-- How to use..
